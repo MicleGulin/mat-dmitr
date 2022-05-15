@@ -1,0 +1,9 @@
+flask
+flask_login
+wtforms
+itsdangerous
+sqlalchemy
+werkzeug
+alembic
+python-dotenv
+flask-mail
